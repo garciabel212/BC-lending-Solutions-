@@ -1,0 +1,8 @@
+
+{
+  "name": "BC Prime Lending Solutions",
+  "description": "Mortgage loan office led by Raudel Bonne, specializing in residential and investment property financing in Miami.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
