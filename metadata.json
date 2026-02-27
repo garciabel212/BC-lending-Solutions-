@@ -1,0 +1,7 @@
+{
+  "name": "Raudel Bonne | BC Prime Lending Solutions",
+  "description": "Raudel Bonne is a premier private lending specialist in Miami, providing strategic capital and mortgage solutions through BC Prime Lending Solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
